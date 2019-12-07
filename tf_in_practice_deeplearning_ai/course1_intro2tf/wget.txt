@@ -1,0 +1,1 @@
+wget --no-check-certificate  https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip -O C:/Users/chenxy/tmp/validation-horse-or-human.zip
